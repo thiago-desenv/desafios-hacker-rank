@@ -5,4 +5,5 @@
 //AvaliacaoAlunos.ArredondarNotas();
 //CalcularDiagonal.DiferencaDiagonal();
 //InverterBits.TransformarBits();
-Classificacao.ClassificarMatrizInteiros();
+//Classificacao.ClassificarMatrizInteiros();
+ContadorVales.ContarPassos();
